@@ -1,0 +1,135 @@
+.jumbotron {
+    background: url('https://cdn.stocksnap.io/img-thumbs/960w/IY8KP6RYMV.jpg');
+    height: 400px;
+    background-size: cover;
+    font-weight: 700;
+    margin-bottom: 0;
+    text-align: center;
+}
+.jumbotron h4 {
+    margin-top: 0;
+    padding: 0;
+    color: rgb(2, 2, 2);
+    background-color: rgba(255, 255, 255, 0.8);
+}
+#header {
+    font-weight: 200;
+    margin: 0;
+    padding: 0;
+}
+#title {
+    background-color: rgba(255, 255, 255, 0.8);
+    width: 320px;
+    text-align: center;
+    display: inline-block;
+    margin-top: 10%;
+    border-radius: 17px 17px 17px 17px;
+}
+
+.navbar-nav.navbar-center {
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+}
+
+
+.container1 {
+    padding-left: 5px;
+    padding-top: 5px;
+}
+
+#HElist {
+    margin-top: 10px;
+    padding-top: 25px;
+    width: 400px;
+    text-align: center;
+    
+}
+
+#HigherEd {
+    box-shadow: 5px;
+}
+
+#hedtitle {
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.7);
+    border-radius: 17px 17px 17px 17px;
+    width: 720px;
+}
+#webdev {
+    height: 60vw;
+    text-align: center;
+    background-image: url('redblueyellow.jpg');
+    box-shadow: 0px 0px 10px 10px white inset;
+    color: white;
+    text-shadow: 5px #000;
+}
+
+.my-2 {
+    height: 4px;
+    
+}
+#footer {
+    background-color: rgb(236, 234, 248);
+    color: rgb(116, 118, 131);
+    height: 45vw;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#profile {
+    width: 420px;
+    height: 500px;
+    padding-bottom: 0;
+    box-shadow: 0px 0px 1px 10px white inset;
+    border-radius: 60%;
+}
+#footerb {
+    background-color: black;
+    color: rgb(57, 53, 77);
+}
+
+#cert {
+    margin-left: 25%;
+    margin-top: 5%;
+}
+
+#highereducation {
+    height: 50vw;
+    background: rgb(222, 224, 224);
+}
+
+#skills {
+    height: 40vw;
+}
+
+.logos {
+    margin-left: 14%;
+    text-align: center;
+    margin-top: 10%;
+}
+
+#navbarNavDropdown {
+    margin-left: 33%;
+}
+
+#highered {
+    background-color: rgb(239, 241, 247);
+    height: 60vw;
+    padding-top: 10%;
+}
+
+#work {
+    height: 100vw;
+    background-color: white;
+}
+#form {
+    height: 40vw;
+    width: 50%;
+    margin-left: 25%;
+}
+
+#certy {
+    padding-top: 50px;
+}
+
